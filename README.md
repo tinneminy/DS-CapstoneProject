@@ -1,2 +1,3 @@
 # DS-CapstoneProject
-My first Data Science Capstone project from IBM data science specialization
+My first Data Science Capstone project from IBM data science specialization.
+
